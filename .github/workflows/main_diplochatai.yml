@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'DiplochatAI'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_44E0B008A7C94EA1ADB8D941FD7EC820 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9DEE899561774601882B68B9F6CD7704 }}
